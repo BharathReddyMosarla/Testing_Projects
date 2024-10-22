@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Bharath
 
- 🌱 I’m currently learning Automation Tesing (Selenium with Python)
- 🤔 I’m looking for help with Automation 
- 💬 Ask me about Python/Selenium/SQL
- 📫 How to reach me: @mosarlabharathreddy@gmail.com
+- 🌱 I’m currently learning Automation Tesing (Selenium with Python)
+- 🤔 I’m looking for help with Automation 
+- 💬 Ask me about Python/Selenium/SQL
+- 📫 How to reach me: @mosarlabharathreddy@gmail.com
 <!--
 **BharathReddyMosarla/BharathReddyMosarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
