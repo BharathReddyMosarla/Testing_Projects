@@ -19,13 +19,13 @@ This repository highlights my hands-on experience in **Manual Testing**, **Autom
 
 ---
 
-### 2. **API Testing Automation – AutomationExercise.com**
-- **Tools & Tech:** Postman, Rest Assured (basic), Java
-- **Description:** Practiced API testing for user, product, and authentication endpoints.
+### 2. **API Testing Automation – OnlineStoreAPI**
+- **Tools & Tech:**  Rest Assured (basic), Java
+- **Description:** Practiced API testing for user, product, cart and authentication endpoints.
 - **Features:**
   - Covered HTTP methods: GET, POST, PUT, DELETE
   - Validated response status, body, and headers
-- ✅ [View Code](#) *(replace with repo link)*
+- ✅ [[View Code](https://github.com/BharathReddyMosarla/OnlineStoreRestAPI.git)]
 
 ---
 
