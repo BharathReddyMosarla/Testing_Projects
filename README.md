@@ -15,7 +15,7 @@ This repository highlights my hands-on experience in **Manual Testing**, **Autom
   - Screenshot capture on failure
   - Extent Reports for and Allure Reports detailed reporting
   - Dynamic XPath and CSS Selectors
-- ✅ [View Code](https://github.com/BharathReddyMosarla/utomationExcercise.git)
+- ✅ [View Code](https://github.com/BharathReddyMosarla/AutomationExcercise.git)
 
 ---
 
