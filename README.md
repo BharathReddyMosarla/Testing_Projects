@@ -1,7 +1,7 @@
 # 🧪 Bharath Reddy Mosarla - QA Engineer Portfolio
 
 Welcome to my QA Engineering Portfolio!  
-This repository highlights my hands-on experience in **Manual Testing**, **Automation Testing (Selenium, TestNG, Postman)**, and working in **Agile environments**.
+This repository highlights my hands-on experience in **Manual Testing**, **Automation Testing (Selenium, TestNG, Rest Assured)**, and working in **Agile environments**.
 
 ---
 
