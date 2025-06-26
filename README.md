@@ -7,19 +7,31 @@ This repository highlights my hands-on experience in **Manual Testing**, **Autom
 
 ## 🔧 Automation Testing Projects
 
-### 1. **E-Commerce Website Automation – UrbanLadder Clone**
+### 1. **E-Commerce Website Automation – AutomationExercise Clone**
+- **Tools & Tech:** Java, Selenium WebDriver, TestNG, Maven, Page Object Model, Extent Reports, Allure Reports
+- **Description:** Automated 26+ test cases for e-commerce functionalities like  product , cart, Login, Regster.
+- **Framework:** Data-Driven + Hybrid Framework with reusable components and configuration files.
+- **Features:**
+  - Screenshot capture on failure
+  - Extent Reports for and Allure Reports detailed reporting
+  - Dynamic XPath and CSS Selectors
+- ✅ [View Code](https://github.com/BharathReddyMosarla/utomationExcercise.git)
+
+---
+
+### 2. **E-Commerce Website Automation – UrbanLadder Clone**
 - **Tools & Tech:** Java, Selenium WebDriver, TestNG, Maven, Page Object Model, Extent Reports
-- **Description:** Automated 26+ test cases for e-commerce functionalities like search, filter, product comparison, cart, and payment flow.
+- **Description:** Automated morethan 400 test cases for e-commerce functionalities like search, filter, product comparison, cart, wishlist, discounts, coupons, quesionaries, payment flow and end-end testing.
 - **Framework:** Data-Driven + Hybrid Framework with reusable components and configuration files.
 - **Features:**
   - Screenshot capture on failure
   - Extent Reports for detailed reporting
   - Dynamic XPath and CSS Selectors
-- ✅ [View Code](#) *(replace with repo link)*
+- ✅ [View Code](https://github.com/BharathReddyMosarla/UrbanLadder.git) 
 
 ---
 
-### 2. **API Testing Automation – OnlineStoreAPI**
+### 3. **API Testing Automation – OnlineStoreAPI**
 - **Tools & Tech:**  Rest Assured (basic), Java
 - **Description:** Practiced API testing for user, product, cart and authentication endpoints.
 - **Features:**
