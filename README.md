@@ -41,6 +41,16 @@ This repository highlights my hands-on experience in **Manual Testing**, **Autom
 
 ---
 
+### 4. **E-Commerce API Automation – AutomationExercise Clone**
+- **Tools & Tech:**  Rest Assured (basic), Java
+-  **Description:** Automated 14 test cases for Practiced API testing for user, product, cart and authentication endpoints.
+- **Features:**
+  - Covered HTTP methods: GET, POST, PUT, DELETE
+  - Validated response status, body, and headers
+- ✅ [[View Code](https://github.com/BharathReddyMosarla/AutomationExcerciseAPI.git)]
+  
+---
+
 ## 📝 Manual Testing Projects
 
 ### 1. **Bank of Pennsylvania (BOP) Application**
