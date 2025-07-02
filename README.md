@@ -71,7 +71,7 @@ This repository highlights my hands-on experience in **Manual Testing**, **Autom
 - **Type:** E-Commerce Web Testing
 - **Covered Functionalities:**  
   Search | Filters | Google Form Validation | Product Comparison | Discounts | Payment Workflow  
-- ✅ [Test Case Samples (Manual)](#) *(replace with repo link)*
+
 
 ---
 
