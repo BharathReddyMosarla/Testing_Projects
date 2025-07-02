@@ -78,7 +78,7 @@ This repository highlights my hands-on experience in **Manual Testing**, **Autom
 ## 🚀 Skills Summary
 
 - **Manual Testing:** Functional, Regression, Smoke, Sanity, STLC/SDLC
-- **Automation Testing:** Selenium WebDriver, TestNG, Maven, POM, Rest Assured, Extent Reports, Allure Reports
+- **Automation Testing:** Selenium WebDriver, TestNG, Maven, POM, Rest Assured, Extent Reports, Allure Reports, Appium (Android & IOS), Postman
 - **Programming:** Core Java (OOPs, Collections, Exception Handling)
 - **Tools:** JIRA, Git, MySQL (basic), Jenkins (basic knowledge)
 
