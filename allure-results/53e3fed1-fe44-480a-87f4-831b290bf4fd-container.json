@@ -1,0 +1,1 @@
+{"uuid":"53e3fed1-fe44-480a-87f4-831b290bf4fd","name":"utilis.BaseClass.getResult","children":["07874430-87d8-428b-8efa-cbd4a3104724"],"description":"","befores":[],"afters":[{"name":"getResult","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1752050993808,"stop":1752050993809}],"start":1752050993807,"stop":1752050993809}
