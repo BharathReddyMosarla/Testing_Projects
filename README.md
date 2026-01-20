@@ -88,7 +88,7 @@ This repository highlights my hands-on experience in **Manual Testing**, **Autom
 
 **Bharath Reddy Mosarla**  
 📧 mosarlabharathreddy@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/bharathreddymosarla)
+
 
 ---
 
